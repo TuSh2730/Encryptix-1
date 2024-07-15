@@ -1,1 +1,1 @@
-# Encryptix-1
+# Encryptix
